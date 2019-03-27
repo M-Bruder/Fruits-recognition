@@ -1,4 +1,4 @@
-# Fruits Recognition with Convolutional Neural Network (CNN)
+# Fruits Recognition - Convolutional Neural Network (CNN)
 
 ## Technologies 
 [Python 3](https://www.python.org/), [TensorFlow 1.4.0](https://github.com/tensorflow/tensorflow) , [Keras 2.1.3](https://github.com/keras-team/keras), [PyQt5](https://www.riverbankcomputing.com/software/pyqt), [NumPy](https://github.com/numpy/numpy)
@@ -25,7 +25,7 @@ Identifying fruits, such as:
 > Validation chart from TensorBoard       
 ![result-img](https://github.com/M-Bruder/Fruits-recognition/blob/master/img-readme/validation.png)  
 
-## Example test fruit
+## Example test
 
 <img src="https://github.com/" width="400" height="400"> 
 <img src="https://github.com/" width="400" height="400"> 
