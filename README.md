@@ -25,7 +25,6 @@ Identifying fruits, such as:
 > Validation chart from TensorBoard       
 ![result-img](https://github.com/M-Bruder/Fruits-recognition/blob/master/img-readme/validation.png)  
 
-## Example test
+## Examples
 
-<img src="https://github.com/" width="400" height="400"> 
-<img src="https://github.com/" width="400" height="400"> 
+<img src="https://github.com/M-Bruder/Fruits-recognition/blob/master/img-readme/blueberryTest.png" width="400" height="400"><img src="https://github.com/M-Bruder/Fruits-recognition/blob/master/img-readme/raspberryTest.png" width="400" height="400">
